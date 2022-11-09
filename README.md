@@ -30,6 +30,5 @@ The format is based on [Keep a Changelog][Keep a Changelog] and this project adh
 - Create/Modify/Close Subtasks
 - Mark subtasks as Completed
 
-
 ## [1.0.0] - 2022-10-18
 ### Initial Release
