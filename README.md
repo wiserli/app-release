@@ -30,5 +30,17 @@ The format is based on [Keep a Changelog][Keep a Changelog] and this project adh
 - Create/Modify/Close Subtasks
 - Mark subtasks as Completed
 
+
+## [1.0.1] - 2022-10-20
+### **Added**
+- Tooltip added in task page
+
+### **Fixed**
+- Task page title enhancement
+- App icon changed
+- some fixes in create new project page.
+- endpoint field removed
+
+
 ## [1.0.0] - 2022-10-18
 ### Initial Release
